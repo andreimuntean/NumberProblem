@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Determines whether an array of numbers can be manipulated using basic
- * arithmetic such that the result is equal to a specified number.
+ * arithmetic such that its result is equal to a specified number.
  *
  * @author Andrei Muntean
  */
